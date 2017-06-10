@@ -4,7 +4,7 @@
 import React from 'react';
 
 
-class Map extends Component {
+class Map extends React.Component {
     render() {
         return (
             <section>
